@@ -1,0 +1,13 @@
+book_id,book,author,year,book_file
+10,The Four Loves,Lewis,1960,corpus\10_Lewis_1960_The-Four-Loves.txt
+11,Don't Waste Your Life,Piper,2003,corpus\11_Piper_2003_Don't-Waste-Your-Life.txt
+12,Fifty Reasons Why Jesus Came to Die,Piper,2004,corpus\12_Piper_2004_Fifty-Reasons-Why-Jesus-Came-to-Die.txt
+1,"Letters of John Calvin, Volume I",Calvin,1536,"corpus\1_Calvin_1536_Letters-of-John-Calvin,-Volume-I.txt"
+2,The Institutes of the Christian Religion,Calvin,1541,corpus\2_Calvin_1541_The-Institutes-of-the-Christian-Religion.txt
+3,The Pilgrim's Progress,Bunyan,1678,corpus\3_Bunyan_1678_The-Pilgrim's-Progress.txt
+4,The Holy War,Bunyan,1682,corpus\4_Bunyan_1682_The-Holy-War.txt
+5,Religious Affections,Edwards,1746,corpus\5_Edwards_1746_Religious-Affections.txt
+6,Select Sermons,Edwards,1750,corpus\6_Edwards_1750_Select-Sermons.txt
+7,Evidences of the Christian Religion,Alexander,1832,corpus\7_Alexander_1832_Evidences-of-the-Christian-Religion.txt
+8,Outlines of Moral Science,Alexander,1854,corpus\8_Alexander_1854_Outlines-of-Moral-Science.txt
+9,The Problem of Pain,Lewis,1940,corpus\9_Lewis_1940_The-Problem-of-Pain.txt
